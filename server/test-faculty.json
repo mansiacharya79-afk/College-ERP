@@ -1,0 +1,9 @@
+{
+  "name": "Dr. Asha Rao",
+  "email": "asha@erp.com",
+  "password": "Faculty@123",
+  "employeeId": "FAC001",
+  "department": "Computer Science",
+  "designation": "Assistant Professor",
+  "subjects": ["Data Structures", "DBMS"]
+}

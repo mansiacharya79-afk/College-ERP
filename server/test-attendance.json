@@ -1,0 +1,11 @@
+{
+  "subject": "Data Structures",
+  "department": "Computer Science",
+  "semester": 5,
+  "section": "A",
+  "date": "2026-07-24",
+  "records": [
+    { "student": "6a63093c9e7ae49972dbfc48", "status": "present" },
+    { "student": "6a630a5b9e7ae49972dbfc4c", "status": "absent" }
+  ]
+}
